@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alpay\\source\\repos\\MassTransit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{856662DF-3328-4767-9C85-76B91F904FCC}|MassTransit.WorkerService.Publisher\\MassTransit.WorkerService.Publisher.csproj|c:\\users\\alpay\\source\\repos\\masstransit\\masstransit.workerservice.publisher\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856662DF-3328-4767-9C85-76B91F904FCC}|MassTransit.WorkerService.Publisher\\MassTransit.WorkerService.Publisher.csproj|solutionrelative:masstransit.workerservice.publisher\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856662DF-3328-4767-9C85-76B91F904FCC}|MassTransit.WorkerService.Publisher\\MassTransit.WorkerService.Publisher.csproj|c:\\users\\alpay\\source\\repos\\masstransit\\masstransit.workerservice.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856662DF-3328-4767-9C85-76B91F904FCC}|MassTransit.WorkerService.Publisher\\MassTransit.WorkerService.Publisher.csproj|solutionrelative:masstransit.workerservice.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF3E1DE-29C5-462C-A99F-E12B05B329A6}|MassTransit.WorkerService.Consumer\\MassTransit.WorkerService.Consumer.csproj|c:\\users\\alpay\\source\\repos\\masstransit\\masstransit.workerservice.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF3E1DE-29C5-462C-A99F-E12B05B329A6}|MassTransit.WorkerService.Consumer\\MassTransit.WorkerService.Consumer.csproj|solutionrelative:masstransit.workerservice.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD1B12-0E0B-422B-BEC3-819CBABEB7A5}|MassTransit.RequestResponsePattern.Publisher\\MassTransit.RequestResponsePattern.Publisher.csproj|c:\\users\\alpay\\source\\repos\\masstransit\\masstransit.requestresponsepattern.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AD1B12-0E0B-422B-BEC3-819CBABEB7A5}|MassTransit.RequestResponsePattern.Publisher\\MassTransit.RequestResponsePattern.Publisher.csproj|solutionrelative:masstransit.requestresponsepattern.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D710FF89-E1F3-4C41-A97C-781218EBDBBC}|MassTransit.RequestResponsePattern.Consumer\\MassTransit.RequestResponsePattern.Consumer.csproj|c:\\users\\alpay\\source\\repos\\masstransit\\masstransit.requestresponsepattern.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D710FF89-E1F3-4C41-A97C-781218EBDBBC}|MassTransit.RequestResponsePattern.Consumer\\MassTransit.RequestResponsePattern.Consumer.csproj|solutionrelative:masstransit.requestresponsepattern.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB19FB6-0B09-405B-8B20-66D807928FDE}|MassTransit.Publisher\\MassTransit.Publisher.csproj|c:\\users\\alpay\\source\\repos\\masstransit\\masstransit.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB19FB6-0B09-405B-8B20-66D807928FDE}|MassTransit.Publisher\\MassTransit.Publisher.csproj|solutionrelative:masstransit.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D91D8C-EA30-4FD5-9B38-B59ABA880B00}|MassTransit.Consumer\\MassTransit.Consumer.csproj|c:\\users\\alpay\\source\\repos\\masstransit\\masstransit.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D91D8C-EA30-4FD5-9B38-B59ABA880B00}|MassTransit.Consumer\\MassTransit.Consumer.csproj|solutionrelative:masstransit.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.WorkerService.Publisher\\Worker.cs",
+              "RelativeDocumentMoniker": "MassTransit.WorkerService.Publisher\\Worker.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.WorkerService.Publisher\\Worker.cs",
+              "RelativeToolTip": "MassTransit.WorkerService.Publisher\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:50:34.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.WorkerService.Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "MassTransit.WorkerService.Publisher\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.WorkerService.Publisher\\Program.cs",
+              "RelativeToolTip": "MassTransit.WorkerService.Publisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:22:46.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.WorkerService.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "MassTransit.WorkerService.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.WorkerService.Consumer\\Program.cs",
+              "RelativeToolTip": "MassTransit.WorkerService.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:22:40.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.RequestResponsePattern.Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "MassTransit.RequestResponsePattern.Publisher\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.RequestResponsePattern.Publisher\\Program.cs",
+              "RelativeToolTip": "MassTransit.RequestResponsePattern.Publisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:22:34.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.RequestResponsePattern.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "MassTransit.RequestResponsePattern.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.RequestResponsePattern.Consumer\\Program.cs",
+              "RelativeToolTip": "MassTransit.RequestResponsePattern.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:22:33.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "MassTransit.Publisher\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.Publisher\\Program.cs",
+              "RelativeToolTip": "MassTransit.Publisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:22:25.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "MassTransit.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\MassTransit\\MassTransit.Consumer\\Program.cs",
+              "RelativeToolTip": "MassTransit.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:22:18.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

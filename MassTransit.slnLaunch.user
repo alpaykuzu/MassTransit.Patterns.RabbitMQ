@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MassTransit.RequestResponsePattern.Publisher\\MassTransit.RequestResponsePattern.Publisher.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MassTransit.RequestResponsePattern.Consumer\\MassTransit.RequestResponsePattern.Consumer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
